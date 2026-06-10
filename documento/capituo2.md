@@ -17,7 +17,7 @@ Abaixo apresenta-se o estudo inicial da interface (protótipo de alta fidelidade
 
 Abaixo apresenta-se o Sitemap da plataforma StreamFlix.
 
-![Protótipo da Página Inicial - StreamFlix](./img/sitemap.png)
+![Protótipo da Página Inicial - StreamFlix](./img/sitemap.jpeg)
 
 ### 2.3. Decisões de Design (UI/UX)
 Com base no protótipo desenvolvido, as principais diretrizes visuais e funcionais são:
