@@ -5,4 +5,4 @@ Neste capítulo encontram-se os materiais de suporte utilizados para a apresenta
 ## 4.1. Suporte Visual (Slides)
 A apresentação de suporte, que resume a estrutura do projeto, o cumprimento dos requisitos (HTML5, CSS3, XML e JS) e os desafios de implementação, pode ser consultada no link abaixo:
 
-* [🔗 Abrir Slides da Apresentação](#) *(Nota: Substituir o # pelo link real do vosso Google Slides, Canva ou PowerPoint partilhado)*
+* [🔗 Abrir Slides da Apresentação](https://ismaipt-my.sharepoint.com/:p:/g/personal/a050175_umaia_pt/IQCduIsKdht5TbKqJxrMkjXoAbeivrS9hwkFYkNZ2IMq7IQ?e=BQNSOL) 
