@@ -10,10 +10,10 @@ A plataforma encontra-se publicada e totalmente operacional para testes e avalia
 ### 3.3. Validação W3C
 
 #### Validação HTML
-![Print do Validador HTML](caminho_da_tua_imagem/print_html.png)
+![Print do Validador HTML](.documento/valid_html.png)
 
 #### Validação CSS
-![Print do Validador CSS](caminho_da_tua_imagem/print_css.png)
+![Print do Validador CSS](caminho_da_tua_imagem/valid_css.png)
 
 ### 3.4. Instruções de Instalação e Configuração
 
