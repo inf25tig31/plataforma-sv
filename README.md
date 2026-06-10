@@ -47,7 +47,7 @@ Documentação detalhada do projeto. Cada link abaixo direciona para o respetivo
 
 | Página Inicial | Catálogo | Detalhe | Registo |
 | :---: | :---: | :---: | :---: |
-| ![Home](assets/print1.png) | ![Catalogo](assets/print2.png) | ![Detalhe](assets/print3.png) | ![Registo](assets/print4.png) |
+| ![Home](assets/print1.jpeg) | ![Catalogo](assets/print2.jpeg) | ![Detalhe](assets/print3.jpeg) | ![Registo](assets/print4.jpeg) |
 
 ## Equipa
 
