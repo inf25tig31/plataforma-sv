@@ -14,7 +14,6 @@ A estrutura de navegação foi pensada para ser simples e linear, garantindo que
 Abaixo apresenta-se o estudo inicial da interface (protótipo de alta fidelidade) desenhado para a página principal da plataforma StreamFlix.
 
 ![Protótipo da Página Inicial - StreamFlix](./img/homep.png)
-*(Nota: O ficheiro original do mockup encontra-se na pasta documento/img/)*
 
 ### 2.3. Decisões de Design (UI/UX)
 Com base no protótipo desenvolvido, as principais diretrizes visuais e funcionais são:
